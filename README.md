@@ -18,3 +18,19 @@ HTML | CSS | JavaScript | Component Layout | Animation | Toggle Logic
 
 Bonus:
 Make the sidebar is responsive on mobile screens.
+
+Task 2: Create a Contact Form
+Description:
+Build a contact form that looks good on all screen sizes.
+The form should include: Full Name, Email Address, Subject, Message, and Submit buttonÌ
+\ Use a clean layout with spacing between inputs and a visible button. Make sure it works well
+on phones and desktops.
+
+Tools & Libraries:
+HTML CSS JavaScript
+
+Covered Topics
+HTML Forms | CSS Styling | Responsive Design | Layout
+
+Bonus:
+Add basic validation using JavaScript (e.g., required fields, valid email format).
