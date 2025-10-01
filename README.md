@@ -34,3 +34,27 @@ HTML Forms | CSS Styling | Responsive Design | Layout
 
 Bonus:
 Add basic validation using JavaScript (e.g., required fields, valid email format).
+
+Industry-Level Task: Build a Job Application Tracker Web App
+
+Description:
+Develop a full, responsive web application that allows users to track their job applications.
+The app should include the following pages
+ Dashboard: Display a list of saved job applications. Each item should show the company name, job title,
+application status, and applied date
+ Add Job Page: A form for entering a new job application with fields like company name, job title, status
+(select from: Applied, Interviewing, Offer, Rejected), application date, and notes
+ Job Details Page: When a job from the dashboard is clicked, show full details including notes and the
+ability to edit or delete the entry
+ Additional Requirements
+ Use React Router for navigation between pages
+ Use global state (Context API or Redux) to manage the list of applications
+ The layout should be optimized for mobile and desktop views
+ Keep the app frontend-only. Store job data temporarily in localStorage.
+
+ Tools & Libraries:
+ ReactJs React Router Context API or Redux Tailwindcss
+
+ Covered Topics
+ React | React Router | Form Handling | State Management | Responsive Design | LocalStorage
+
